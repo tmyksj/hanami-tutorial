@@ -1,2 +1,2 @@
 # hanami-tutorial
-Hanami Guides をやってみた記録。
+[Hanami Guides](https://guides.hanamirb.org/) をやってみた記録。
